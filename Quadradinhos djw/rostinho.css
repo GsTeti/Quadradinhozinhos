@@ -1,0 +1,20 @@
+html {
+  font-family: "Curlz MT", cursive;
+  height: 100%;
+}
+
+body {
+  overflow: hidden;
+  height: inherit;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: 40px;
+  right: 50px;
+
+  color: white;
+}
